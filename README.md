@@ -16,6 +16,11 @@ First, run Migration command to create required tables:
 ``` bash
 $ php artisan migrate
 ```
+Run the dump-autoload command to regenerate Composer autoloader
+
+``` bash
+$ composer dump-autoload
+```
 Then, run database seed command:
 
 ``` bash
