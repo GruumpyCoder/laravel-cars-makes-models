@@ -1,8 +1,6 @@
-# [Laravel Cars Makes&Models]
-Usefull for Auto rental/cars management systems, containing a huge list of vehicles Make, and models, also some vehicles types
-# [Uppy](https://uppy.io)
+# Laravel Cars Makes&Models
+<img src="https://i.imgur.com/RdmnRRv.jpg" width="120" alt="GrumpyCoder:: Laravel Cars Makes">
 
-<img src="https://i.imgur.com/RdmnRRv.jpg" width="120" alt="GrumpyCoder:: Laravel Cars Makes" align="right">
 
 A simple database migrations and seeds for Vehicles Makes, models and types,
 
