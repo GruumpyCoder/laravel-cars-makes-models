@@ -1,5 +1,5 @@
 # Laravel Cars Makes&Models
-<img src="https://i.imgur.com/RdmnRRv.jpg" width="450" alt="GrumpyCoder:: Laravel Cars Makes">
+<img src="https://i.imgur.com/RdmnRRv.jpg" alt="GrumpyCoder:: Laravel Cars Makes&Mdoels">
 
 
 A simple database migrations and seeds for Vehicles Makes, models and types,
