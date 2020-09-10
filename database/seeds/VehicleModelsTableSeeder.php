@@ -817,7 +817,7 @@ class VehicleModelsTableSeeder extends Seeder
       array('id' =>798, 'make_id' =>44, 'code' =>'300_CLASS_E_CLASS', 'name' =>'300 Class / E Class (6)'),
       array('id' =>799, 'make_id' =>44, 'code' =>'300CD', 'name' =>' - 300CD'),
       array('id' =>800, 'make_id' =>44, 'code' =>'300CE','name' => ' - 300CE'),
-      array('id' =>801, 'make_id' =>44, 'code' =>'300D', ' - 300D'),
+      array('id' =>801, 'make_id' =>44, 'code' =>'300D', 'name' => ' - 300D'),
       array('id' =>802, 'make_id' =>44, 'code' =>'300E', 'name' =>' - 300E'),
       array('id' =>803, 'make_id' =>44, 'code' =>'300TD', 'name' =>' - 300TD'),
       array('id' =>804, 'make_id' =>44, 'code' =>'300TE','name' => ' - 300TE'),
